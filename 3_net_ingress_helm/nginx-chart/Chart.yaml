@@ -1,0 +1,7 @@
+---
+apiVersion: v2
+name: my-nginx
+version: 1.0.0
+appVersion: "1.25"
+description: A simple Helm chart for Nginx
+type: application
